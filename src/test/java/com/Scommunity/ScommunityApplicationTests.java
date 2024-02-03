@@ -1,4 +1,4 @@
-package com.Scommunity.Scommunity;
+package com.Scommunity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

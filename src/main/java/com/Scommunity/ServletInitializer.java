@@ -1,4 +1,4 @@
-package com.Scommunity.Scommunity;
+package com.Scommunity;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

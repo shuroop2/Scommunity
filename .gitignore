@@ -162,3 +162,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,git,java,react,maven
+
+# properties
+*.properties
