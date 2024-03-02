@@ -10,8 +10,7 @@ import java.security.SecureRandom;
 @RestController
 public class TestController {
     @GetMapping("/api/connect")
-    public String test() {
-        System.out.println();
+    public String test() throws Exception {
         return "백엔드랑 연결성공";
     }
 }
