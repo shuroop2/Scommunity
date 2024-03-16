@@ -6,7 +6,7 @@ function App() {
 
   const [connect, setConnect] = useState("")
   useEffect(() => {
-    axios.get("/api/connect")
+    axios.get("/index")
         .then((res)=>{
           setConnect(res.data);
         })
